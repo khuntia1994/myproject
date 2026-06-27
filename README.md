@@ -1,3 +1,3 @@
-hello Github
+Hello GitHub
 This is my second commit
-my3rd changes
+This is my third change
